@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+ECHBOTS-SIT is the official robotics club of Srinivas Institute of Technology, dedicated to fostering innovation, creativity, and practical learning in the fields of robotics, electronics, and technology. Founded by passionate students, our club serves as a hub for aspiring engineers and tech enthusiasts to explore cutting-edge technologies and develop their skills in robotics, automation, and AI.
